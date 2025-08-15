@@ -1,0 +1,10 @@
+{
+  "lockfileVersion": 0,
+  "options": {},
+  "nodes": {},
+  "edges": {
+    "file·. a": "prod workspace:* workspace·a",
+    "workspace·a b": "prod workspace:* workspace·b",
+    "workspace·b c": "prod workspace:* workspace·c"
+  }
+}
